@@ -1,0 +1,13 @@
+<html>
+<h1> Привет всем</h1>
+<table>
+<tr style="color:green;">
+<p style="color:green;"> я </p> 
+<p style="color:green;"> люблю </p>
+<p style="color:green;"> маму </p>
+</tr>
+<tr style="color:blue;">
+<p style="color:blue;"> и </p>
+<p style="color:green;"> папу </p>
+<p style="color:green;"> тоже </p>
+</html>
